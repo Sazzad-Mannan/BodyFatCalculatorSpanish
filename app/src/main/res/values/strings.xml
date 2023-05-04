@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Calculadora de grasa corporal</string>
+    <string name="how"><u>Saber sobre el método de cálculo</u></string>
+    <string name="height">Altura</string>
+    <string name="Weight">Peso</string>
+    <string name="Waist">Cintura</string>
+    <string name="Neck">Cuello</string>
+    <string name="Hip">Cadera</string>
+    <string name="Gender">Género</string>
+    <string name="Calculate">Calcular</string>
+    <string name="about">
+\n<b>Método de la Marina de los EE. UU.:</b>\n
+
+Hay muchas técnicas específicas que se utilizan para medir la grasa corporal. La calculadora anterior utiliza un método que involucra ecuaciones desarrollado en el Centro de Investigación de Salud Naval por Hodgdon y Beckett en 1984.\n\n
+<b>Fórmula de porcentaje de grasa corporal para hombres:</b>\n
+
+
+SI, unidades métricas:\n
+BFP =
+495/(1.0324 - 0.19077×log10(cintura-cuello) + 0.15456×log10(altura))
+        - 450\n\n<b>Fórmula de porcentaje de grasa corporal para mujeres:</b>\n
+
+SI, unidades métricas:\n
+BFP =
+495/(1,29579 - 0,35004×log10(cintura+cadera-cuello) + 0,22100×log10(altura))
+- 450
+
+    </string>
+    <string name="your">Su porcentaje de grasa corporal es:</string>
+    <string name="lean">INCLINARSE</string>
+
+
+    <string name="title">TABLA DE % DE GRASA CORPORAL</string>
+    <string name="m">HOMBRES</string>
+    <string name="f">MUJER</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenina</string>
+    <string name="in">in</string>
+    <string name="ft">ft</string>
+    <string name="kg">kg</string>
+    <string name="lbs">lb</string>
+    <string name="cm">cm</string>
+    <string name="toast">Ingrese sus medidas de altura, peso, cintura, cuello y cadera.</string>
+    <string name="l1">RIESGO DE GRASA CORPORAL BAJO</string>
+    <string name="l2">ULTRA DELGADO</string>
+    <string name="l3">INCLINARSE</string>
+    <string name="l4">MODERADAMENTE GRASA</string>
+    <string name="l5">EXCESO DE GRASA</string>
+    <string name="l6">ALTO RIESGO DE GRASA CORPORAL</string>
+    <string name="m1">5%</string>
+    <string name="m2">8%</string>
+    <string name="m3">12%</string>
+    <string name="m4">20%</string>
+    <string name="m5">30%</string>
+    <string name="f1">15%</string>
+    <string name="f2">18%</string>
+    <string name="f3">22%</string>
+    <string name="f4">30%</string>
+    <string name="f5">40%</string>
+    <string name="d1">Pregúntele a su proveedor de atención médica sobre cómo aumentar su grasa corporal de manera segura.</string>
+    <string name="d2">Este es el nivel de grasa corporal que a menudo se encuentra en la mayoría de los atletas de élite.</string>
+    <string name="d3">Este nivel de grasa corporal es más bajo que el de la mayoría de las personas y excelente para la salud.</string>
+    <string name="d4">Este nivel de grasa corporal es generalmente aceptable para una buena salud.</string>
+    <string name="d5">Este nivel de grasa corporal indica una acumulación excesiva de grasa.</string>
+    <string name="d6">Pregúntele a su proveedor de atención médica cómo reducir su grasa corporal de manera segura.</string>
+
+</resources>
